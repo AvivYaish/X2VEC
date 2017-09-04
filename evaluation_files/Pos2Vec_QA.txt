@@ -1,0 +1,5 @@
+man_NN uncle_NN woman_NN aunt_NN
+evening_NN dinner_NN afternoon_NN lunch_NN
+music_NN composer_NN play_NN playwright_NN
+warm_JJ winter_NN cold_JJ summer_NN
+grandma_NN woman_NN man_NN grandpa_NN

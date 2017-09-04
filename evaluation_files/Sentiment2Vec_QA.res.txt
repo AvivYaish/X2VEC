@@ -1,0 +1,4 @@
+Incorrect	man_NEUTRAL	uncle_NEUTRAL	woman_NEUTRAL	aunt_NEUTRAL
+Incorrect	evening_NEUTRAL	dinner_NEUTRAL	afternoon_NEUTRAL	lunch_NEUTRAL
+Incorrect	music_NEUTRAL	composer_NEUTRAL	play_NEUTRAL	playwright_NEUTRAL
+Correct	warm_NEUTRAL	winter_NEUTRAL	cold_NEUTRAL	summer_NEUTRAL

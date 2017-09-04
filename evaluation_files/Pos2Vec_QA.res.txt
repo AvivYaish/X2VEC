@@ -1,0 +1,4 @@
+Correct	man_NN	uncle_NN	woman_NN	aunt_NN
+Incorrect	evening_NN	dinner_NN	afternoon_NN	lunch_NN
+Incorrect	music_NN	composer_NN	play_NN	playwright_NN
+Incorrect	warm_JJ	winter_NN	cold_JJ	summer_NN

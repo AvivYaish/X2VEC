@@ -1,0 +1,5 @@
+Incorrect	man	uncle	woman	aunt
+Correct	evening	dinner	afternoon	lunch
+Incorrect	music	composer	play	playwright
+Correct	warm	winter	cold	summer
+Incorrect	grandma	woman	man	grandpa

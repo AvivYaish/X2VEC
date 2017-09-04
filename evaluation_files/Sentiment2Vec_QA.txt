@@ -1,0 +1,5 @@
+man_NEUTRAL uncle_NEUTRAL woman_NEUTRAL aunt_NEUTRAL
+evening_NEUTRAL dinner_NEUTRAL afternoon_NEUTRAL lunch_NEUTRAL
+music_NEUTRAL composer_NEUTRAL play_NEUTRAL playwright_NEUTRAL
+warm_NEUTRAL winter_NEUTRAL cold_NEUTRAL summer_NEUTRAL
+grandma_NEUTRAL woman_NEUTRAL man_NEUTRAL grandpa_NEUTRAL

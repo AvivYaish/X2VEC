@@ -1,0 +1,16 @@
+monitor_NEUTRAL check_NEUTRAL
+monitor_NEUTRAL examine_NEUTRAL
+monitor_NEUTRAL screens_NEUTRAL
+hides_NEUTRAL conceals_NEUTRAL
+hides_NEUTRAL skins_NEUTRAL
+handle_NEUTRAL lever_NEUTRAL
+handles_NEUTRAL uses_NEUTRAL
+handles_NEUTRAL supervises_NEUTRAL
+watches_NEUTRAL supervises_NEUTRAL
+watch_NEUTRAL time_NEUTRAL
+watch_NEUTRAL look_NEUTRAL
+saw hammer_NEUTRAL
+saw_NEUTRAL looked_NEUTRAL
+war_NEGATIVE army_NEGATIVE
+battle_NEGATIVE army_NEGATIVE
+student_POSITIVE school_POSITIVE

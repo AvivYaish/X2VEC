@@ -1,0 +1,8 @@
+party.n.04 gathering.n.01
+party.n.01 conservative.n.01
+nuclear.a.03 atom.n.01
+judge.n.01 defendant.n.01
+judge.v.05 punish.v.01
+host.n.05 militiaman.n.01
+host.v.01 sponsor.v.02
+presenter.n.02 broadcaster.n.02

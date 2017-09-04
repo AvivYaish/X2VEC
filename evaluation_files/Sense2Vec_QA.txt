@@ -1,0 +1,5 @@
+man.n.01 uncle.n.01 woman.n.01 aunt.n.01
+evening.n.01 dinner.n.01 afternoon.n.01 lunch.n.01
+music.n.01 composer.n.01 play.n.01 playwright.n.01
+warm.a.01 winter.n.01 cold.n.03 summer.n.01
+grandma.n.01 woman.n.01 man.n.01 grandpa.n.01
