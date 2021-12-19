@@ -1,6 +1,5 @@
 # X2VEC
 ### Authors: Aviv Yaish, Dan Kufra
-Our final project for "Meaning and Computation" (6111).
 
 We have implemented, expanded and reviewed the paper “Sense2Vec - A Fast and Accurate Method For Word Sense Disambiguation In Neural Word Embeddings" by Andrew Trask, Phil Michalak and John Liu.
 
