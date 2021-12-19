@@ -4,6 +4,8 @@ authors:
 - family-names: "Yaish"
   given-names: "Aviv"
   orcid: "https://orcid.org/0000-0002-7971-2494"
+- family-names: "Kufra"
+  given-names: "Dan"
 title: "X2VEC - An Extension of Sense2Vec"
 version: 1
 doi: 10.13140/RG.2.2.24547.27681
