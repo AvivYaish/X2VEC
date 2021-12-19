@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Yaish"
+  given-names: "Aviv"
+  orcid: "https://orcid.org/0000-0002-7971-2494"
+title: "X2VEC - An Extension of Sense2Vec"
+version: 1
+doi: 10.13140/RG.2.2.24547.27681
+date-released: 2017-09-04
+url: "https://github.com/AvivYaish/X2VEC"
